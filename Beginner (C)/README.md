@@ -11,4 +11,5 @@
 - [x] - [1008](https://www.beecrowd.com.br/judge/en/problems/view/1008) - [Salary](https://github.com/ImtiazAhmedAkash/beecrowd/blob/main/Beginner%20(C)/1008.c)
 - [x] - [1009](https://www.beecrowd.com.br/judge/en/problems/view/1009) - [Salary with Bonus](https://github.com/ImtiazAhmedAkash/beecrowd/blob/main/Beginner%20(C)/1009.c)
 - [x] - [1010](https://www.beecrowd.com.br/judge/en/problems/view/1010) - [Simple Calculate](https://github.com/ImtiazAhmedAkash/beecrowd/blob/main/Beginner%20(C)/1010.c)
+- [x] - [2162](https://www.beecrowd.com.br/judge/en/problems/view/2162) - [Peaks and Valleys](https://github.com/ImtiazAhmedAkash/beecrowd/blob/main/Beginner%20(C)/2162.c)
 - [x] - [10](https://www.beecrowd.com.br/judge/en/problems/view/10) - [](https://github.com/ImtiazAhmedAkash/beecrowd/blob/main/Beginner%20(C)/10.c)
