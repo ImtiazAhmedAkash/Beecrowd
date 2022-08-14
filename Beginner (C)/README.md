@@ -23,4 +23,7 @@
 - [x] - [1020](https://www.beecrowd.com.br/judge/en/problems/view/1020) - [Age in Days](https://github.com/ImtiazAhmedAkash/beecrowd/blob/main/Beginner%20(C)/1020.c)
 
 - [x] - [2162](https://www.beecrowd.com.br/judge/en/problems/view/2162) - [Peaks and Valleys](https://github.com/ImtiazAhmedAkash/beecrowd/blob/main/Beginner%20(C)/2162.c)
+
+- [x] - [2632](https://www.beecrowd.com.br/judge/en/problems/view/2632) - [Magic and Sword](https://github.com/ImtiazAhmedAkash/beecrowd/blob/main/Beginner%20(C)/2632.c)
+
 - [x] - [10](https://www.beecrowd.com.br/judge/en/problems/view/10) - [](https://github.com/ImtiazAhmedAkash/beecrowd/blob/main/Beginner%20(C)/10.c)
