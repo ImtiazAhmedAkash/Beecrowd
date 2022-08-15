@@ -1,3 +1,5 @@
+// Magic and Sword
+
 #include <stdio.h>
 #include <math.h>
 
